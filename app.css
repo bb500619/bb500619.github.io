@@ -1,35 +1,3 @@
-body{
-	color: purple;
-	
-
-}
-#bottle{
-	color: gray;
-	font-size: 30px;
-}
-h1{
-	color: yellow
-}
-h2{
-	color: red;
-	font-size: 40px;
-}
-ul{
-	color: red;
-}
-.front{
-	background-color: blue;
-}
-#top{
-	font-size: 25px;
-	color: yellow;
-	background-color: gray; 
-}
-#self{
-	font-size: 15px;
-}
-#me{
-	font-size: 25px;
-	color: yellow;
-	background-color: gray;
+.green{
+	background-color: green;
 }
